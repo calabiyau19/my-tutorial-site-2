@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### About This Site
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This website is part of a tutorial series where I practice setting up Jekyll sites, customizing themes, and deploying to GitHub Pages.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### What I’ve Learned So Far
 
+How to:
 
-[jekyll-organization]: https://github.com/jekyll
+- Set up Xubuntu on a old laptop to act as my local server
+- Install Jekyll, Gem and Ruby on that local server
+- Modify the default Jekyll theme, making minor changes to _config.yml
+- Set up a new site on GitHub, matching my local site in name 
+- Set up Jekyll on a remote server at GitHub
+- Create and push sites built locally to GitHub Pages
+- Customize themes and navigation - minor changes for now
+- Manage posts and pages with Markdown
+- Edit the About.markdown page from the default to something better
+
+More to come................
