@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  My Jekyll Tutorial Site 2
+title:  Pontifex
 email: calabiyau19@gmail.com
-description: Wax On Wax Off
+# description: Wax On Wax Off
 baseurl: "/my-tutorial-site-2" # the subpath of your site, e.g. /blog
 # url: "https://calabiyau19.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
